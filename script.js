@@ -1,7 +1,11 @@
 const images = [
-    'images/img1.jpg',
-    'images/img2.jpg',
-    'images/img3.jpg'
+    'images/play store graphic reprsentiion.jpg',
+    'images/profile screen.jpeg',
+    'images/drawer options.jpeg',
+    'images/about us.jpeg',
+    'images/home screen.jpeg',
+    'images/splash screen.jpeg',
+    
 ];
 let currentImageIndex = 0;
 const carouselImage = document.getElementById('carouselImage');
