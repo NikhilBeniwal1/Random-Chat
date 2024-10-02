@@ -1,0 +1,56 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Navigation Menu */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Carousel */
+.carousel {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+
+/* Page Headings */
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Page Content */
+p {
+    padding: 0 20px;
+    text-align: center;
+}
