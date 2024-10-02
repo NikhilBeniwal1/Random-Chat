@@ -1,10 +1,10 @@
 const images = [
-    'images/play store graphic reprsentiion.jpg',
-    'images/profile screen.jpeg',
-    'images/drawer options.jpeg',
-    'images/about us.jpeg',
-    'images/home screen.jpeg',
-    'images/splash screen.jpeg',
+    'images/play.jpg',
+    'images/profilescreen.jpeg',
+    'images/draweroptions.jpeg',
+    'images/aboutus.jpeg',
+    'images/homescreen.jpeg',
+    'images/splashscreen.jpeg',
     
 ];
 let currentImageIndex = 0;
