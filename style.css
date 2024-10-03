@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    text-align: left;
 }
 
 /* Navigation Menu */
@@ -43,11 +44,16 @@ nav ul li a {
     height: auto;
 }
 
-/* Page Headings */
-h1 {
+/* Page Headings h1 {
     text-align: center;
     margin: 20px 0;
-}
+}*/
+
+
+  p, h1, h2, ul {
+            margin: 0 auto;
+            text-align: left;
+        }
 
 /* Page Content */
 p {
